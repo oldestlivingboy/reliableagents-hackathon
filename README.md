@@ -2,8 +2,6 @@
 Benchmark browser agents on ~2.5k READ &amp; ACTION based tasks
 
 ---
-license: mit
----
 
 # 🌐 WebBench: The Ultimate Browser Agent Benchmark 🖥️
 
