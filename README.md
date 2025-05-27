@@ -1,9 +1,9 @@
-# WebBench
+# Web Bench
 Benchmark browser agents on ~2.5k READ &amp; ACTION based tasks
 
 ---
 
-# 🌐 WebBench: The Ultimate Browser Agent Benchmark 🖥️
+# 🌐 Web Bench: Benchmark browser agents on real world action-based tasks.
 
 Browser agents are transforming the way we automate complex, real-world web tasks. But, evaluating them effectively? That's been tricky—until now.
 
@@ -11,7 +11,7 @@ Browser agents are transforming the way we automate complex, real-world web task
 
 ---
 
-## 🚀 Why WebBench?
+## 🚀 Why Web Bench?
 
 Existing benchmarks for browser agents either use offline simulations or are limited to simple read-only tasks. The web is dynamic, diverse, and unpredictable—your benchmarks should be too.
 
