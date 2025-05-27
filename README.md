@@ -54,7 +54,7 @@ The 452 websites are distributed across 17 primary categories. We sampled benchm
 Contribute, benchmark, and collaborate:
 
 * 🌟 Check out our [dataset card](https://huggingface.co/datasets/Halluminate/WebBench).
-* 🚀 Check out our [technical report](https://halluminate.ai/).
+* 🚀 Check out our [technical report]([https://halluminate.ai/](https://halluminate.ai/blog/benchmark)).
 
 
 more coming soon... 
