@@ -1,39 +1,17 @@
-# Web Bench
-Benchmark browser agents on ~2.5k READ &amp; ACTION based tasks
+---
+license: mit
+---
+
+# WebBench: A real-world benchmark for Browser Agents
+
+WebBench is an open, task-oriented benchmark that measures how well browser agents handle realistic web workflows.
+It contains **2 ,454 tasks** spread across **452 live websites** selected from the global top-1000 by traffic.
+
+Last updated: May 28, 2025
 
 ---
 
-# 🌐 Web Bench: Benchmark browser agents on real world action-based tasks.
-
-Browser agents are transforming the way we automate complex, real-world web tasks. But, evaluating them effectively? That's been tricky—until now.
-
-**Introducing WebBench**, the first, real-world benchmark of action based tasks for browser-based web agents.
-
----
-
-## 🚀 Why Web Bench?
-
-Existing benchmarks for browser agents either use offline simulations or are limited to simple read-only tasks. The web is dynamic, diverse, and unpredictable—your benchmarks should be too.
-
-WebBench fills this crucial gap by providing:
-
-* **Real-world complexity**: \~Realistic web-based read and action-oriented tasks.
-* **Diverse coverage**: Spanning 450+ real websites, capturing the true variability of the modern web.
-* **Open-source**: \~2,454 carefully curated tasks publicly released to drive innovation in browser automation.
-
----
-
-## 🛠️ Built for Innovation
-
-WebBench empowers researchers and developers to:
-
-* **Accurately measure** real-world agent performance.
-* **Rapidly prototype and validate** browser agents across diverse web scenarios.
-* **Push the boundaries** of what's possible in browser-based automation.
-
----
-
-## 📚 Dataset Highlights
+## Dataset Composition
 
 | Category           | Description                                             | Example                                                                                                                                                                             | Count (% of dataset) |
 | ------------------ | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
@@ -42,19 +20,22 @@ WebBench empowers researchers and developers to:
 | UPDATE             | Tasks that require updating data on the website         | “Adjust your journal notification preferences in your Springer account to receive email updates about "Online First" articles instead of the default monthly summary.”              | 173 (7.1%)           |
 | DELETE             | Tasks that require deleting data from the website       | “Log in to your account, create a temporary test question in the Academia community titled "Test Question for Deletion," then delete it and confirm its removal from your profile.” | 149 (6.1%)           |
 | FILE\_MANIPULATION | Tasks that require downloading a file from the internet | “Locate a downloadable recipe printout for a popular dessert recipe, download the file, and verify that the filename includes the recipe’s name.”                                   | 40 (1.5%)            |
-
-### 🌎 Website Categories
-
-The 452 websites are distributed across 17 primary categories. We sampled benchmark websites from the top 1000 websites globally by web traffic. This dataset was cleaned by removing repeat domains, sites without English translations, or sites blocked by paywalls.
+                                                                                                                                                                     |
 
 ---
 
-## 🤝 Join the Community
+## Use Cases
 
-Contribute, benchmark, and collaborate:
+* **Benchmarking**: Compare agent architectures on identical real-world tasks.
+* **Ablation & Debugging**: Isolate failure modes (DOM changes, pop-ups, authentication).
+* **Rapid Prototyping**: Validate improvements on a broad, realistic workload before production.
 
-* 🌟 Check out our [dataset card](https://huggingface.co/datasets/Halluminate/WebBench).
-* 🚀 Check out our [technical report](https://halluminate.ai/blog/benchmark).
+---
 
+## Access
 
-more coming soon... 
+* Github, code, and open sourced results → [https://github.com/Halluminate/WebBench](https://github.com/Halluminate/WebBench)
+* Technical report → [https://halluminate.ai/blog/benchmark](https://halluminate.ai/blog/benchmark)
+
+Contributions—new tasks, evaluation scripts, or bug reports—are welcome.
+
