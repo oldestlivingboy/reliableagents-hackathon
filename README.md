@@ -32,8 +32,8 @@ Last updated: May 28, 2025
 
 ## Access
 
-* Github, code, and open sourced results → [https://github.com/Halluminate/WebBench](https://github.com/Halluminate/WebBench)
-* Technical report → [https://halluminate.ai/blog/benchmark](https://halluminate.ai/blog/benchmark)
+* Check out our dataset card [here](https://huggingface.co/datasets/Halluminate/WebBench)
+* [Technical report](https://halluminate.ai/blog/benchmark)
 
 Contributions—new tasks, evaluation scripts, or bug reports—are welcome.
 
