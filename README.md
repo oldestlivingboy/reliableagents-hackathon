@@ -1,6 +1,4 @@
----
-license: mit
----
+
 
 # WebBench: A real-world benchmark for Browser Agents
 
