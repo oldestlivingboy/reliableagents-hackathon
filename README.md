@@ -37,3 +37,5 @@ Last updated: May 28, 2025
 
 Contributions—new tasks, evaluation scripts, or bug reports—are welcome.
 
+If you would like to benchmark your browser agent, please contact us at jerry@halluminate.ai 
+
