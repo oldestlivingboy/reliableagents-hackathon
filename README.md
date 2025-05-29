@@ -68,5 +68,3 @@ We developed Web Bench to systematically quantify and address these performance 
 We welcome contributions—new tasks, evaluation scripts, or bug reports.
 
 To benchmark your browser agent, please contact: [jerry@halluminate.ai](mailto:jerry@halluminate.ai)
-
-Explore WebBench on GitHub: [WebBench GitHub Repository](https://github.com/Halluminate/WebBench/tree/main)
