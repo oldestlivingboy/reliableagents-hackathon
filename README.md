@@ -31,9 +31,10 @@ Last updated: May 28, 2025
 ---
 
 ## Access
-
+* Official Leaderboard [here](https://webbench.ai/)
 * Check out our dataset card [here](https://huggingface.co/datasets/Halluminate/WebBench)
 * [Technical report](https://halluminate.ai/blog/benchmark)
+* Check out the launch in partnership with [Skyvern](https://blog.skyvern.com/web-bench-a-new-way-to-compare-ai-browser-agents/)
 
 Contributions—new tasks, evaluation scripts, or bug reports—are welcome.
 
