@@ -1,6 +1,7 @@
 # WebBench: A real-world benchmark for Browser Agents
 
 WebBench is an open, task-oriented benchmark designed to measure how effectively browser agents handle complex, realistic web workflows. It includes **2,454 tasks** across **452 live websites** selected from the global top-1000 by traffic.
+**Dataset Card**: [HuggingFace](https://huggingface.co/datasets/Halluminate/WebBench)
 
 Last updated: May 28, 2025
 
