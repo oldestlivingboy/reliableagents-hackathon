@@ -151,8 +151,6 @@ Only use http://esquire.com to achieve the task. Don't go to any other site. The
 Only use http://esquire.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 449,https://www.esquire.com,READ,easy,"Navigate to the Esquire homepage and list the headlines of the top 3 featured articles.
 Only use http://esquire.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
-453,https://www.etsy.com,READ,easy,"Sign in to your Etsy account using your email and password.
-Only use http://etsy.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 460,https://www.eventbrite.com,READ,easy,"Access the Eventbrite Help Center to locate guidelines on organizing virtual events; then list the key steps and recommendations provided.
 Only use http://eventbrite.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 481,https://www.expedia.com/,READ,easy,"Search for flights from New York’s JFK to Los Angeles’ LAX on June 15th with a return on June 20th, and list the top three cheapest fares.
@@ -179,8 +177,6 @@ Only use http://flickr.com to achieve the task. Don't go to any other site. The 
 Only use http://flipkart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 545,https://www.flipkart.com/,READ,hard,"Navigate to the ""Mobiles"" category, search for ""iPhone"", and list the product names, prices, and discount details of the top 5 search results.
 Only use http://flipkart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
-552,https://food52.com,READ,hard,"Log in, use the community forum search on Food52 to find posts tagged with “grilling” and list the titles of the first three posts along with the respective usernames of the posters.
-Only use http://food52.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 553,https://food52.com,READ,easy,"Browse the “A Few of Our Faves” section and list three recipes featured this week, including their titles.
 Only use http://food52.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 554,https://food52.com,READ,easy,"Use the Food52 search function to find a recipe that includes both lemon and thyme in the ingredients, then list the step-by-step cooking instructions of the first matching result.
@@ -224,10 +220,6 @@ Only use http://github.com to achieve the task. Don't go to any other site. The 
 680,https://www.glassdoor.com/index.htm,CREATE,easy,"Post a new discussion in a Glassdoor community Bowl about work-life balance at tech startups, providing your insights and suggestions.
 Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 687,https://www.glassdoor.com/index.htm,DELETE,hard,"Log in to your Glassdoor account, post a new comment in a community discussion about job search tips, then delete your comment and verify that it is no longer displayed.
-Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
-688,https://www.glassdoor.com/index.htm,READ,easy,"Navigate to the New York City Bowl and display the number of members as well as the bio of the bowl.
-Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
-689,https://www.glassdoor.com/index.htm,READ,hard,"Navigate to the ""Interviews"" section, search for interview experiences at ""Tesla"", and report the most frequently mentioned interview question.
 Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 695,https://www.goal.com/en-us,READ,easy,"Find the match analysis of the last Champions League game and write down the main tactical observation discussed in the article.
 Only use http://goal.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
@@ -427,8 +419,6 @@ Only use http://playstation.com to achieve the task. Don't go to any other site.
 Only use http://polygon.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 1392,https://www.purdue.edu,READ,easy,"Locate the section on study abroad programs and list two destination countries where Purdue students can study.
 Only use http://purdue.edu to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
-1395,https://quizlet.com,READ,easy,"Log in, visit the Quizlet Help Center, navigate to the FAQ section on creating your questions, and summarize the first three steps listed.
-Only use http://quizlet.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 1400,https://www.radiotimes.com,CREATE,easy,"Use the social media sharing buttons on a Radiotimes article to generate a shareable link and create a custom message endorsing the article.
 Only use http://radiotimes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
 1407,https://www.radiotimes.com,READ,hard,"Locate tonight's featured TV schedule on Radiotimes, and list the titles of shows airing on both BBC and ITV.
