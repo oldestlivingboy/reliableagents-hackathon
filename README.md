@@ -68,4 +68,18 @@ We developed Web Bench to systematically quantify and address these performance 
 
 We welcome contributions—new tasks, evaluation scripts, or bug reports.
 
+---
+
+## Citation
+
+If you use WebBench in your research, please cite:
+```bibtex
+@misc{webbench2025,
+  title = {WebBench: AI Web Browsing Agent Benchmark},
+  author = {{Halluminate and Skyvern}},
+  year = {2025},
+  note = {\url{https://webbench.ai/}},
+}
+```
+
 To benchmark your browser agent, please contact: [jerry@halluminate.ai](mailto:jerry@halluminate.ai)
