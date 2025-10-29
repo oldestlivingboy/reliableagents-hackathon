@@ -1,10 +1,10 @@
 {
   "name": "stagehand-runner",
   "version": "1.0.0",
-  "description": "Stagehand runner for web reliability benchmarking.",
+  "description": "Stagehand runner for Reliable Agents benchmarking.",
   "keywords": [
-    "web",
-    "reliability",
+    "reliable",
+    "agents",
     "benchmarking",
     "stagehand",
     "runner"
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oldestlivingboy/webreliability"
+    "url": "https://github.com/oldestlivingboy/reliableagents-hackathon"
   }
 }
